@@ -1,0 +1,1 @@
+define("pages/open-course/peerReview/views/nls/pt/submissionError",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Error submitting assignment:":"Erro no envio da tarefa."}});

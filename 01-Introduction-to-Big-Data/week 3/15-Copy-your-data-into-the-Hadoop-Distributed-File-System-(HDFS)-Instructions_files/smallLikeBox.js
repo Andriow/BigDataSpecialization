@@ -1,0 +1,1 @@
+define("pages/open-course/peerReview/components/likes/views/nls/pt/smallLikeBox",["require","exports","module"],function(require,exports,module){"use strict";module.exports={like:"curtida",likes:"curtidas"}});

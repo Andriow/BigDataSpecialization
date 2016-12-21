@@ -1,0 +1,1 @@
+define("pages/open-course/peerReview/views/nls/pt/assignment.section",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"less&nbsp;":"menos&nbsp;","more&nbsp;":"mais&nbsp;"}});

@@ -1,0 +1,1 @@
+define("nls/pt/ui",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Close:"Fechar","Copied to clipboard":"Copiado para a área de transferência",Copy:"Copiar",Less:"Menos",More:"Mais","Show less":"Mostrar menos"}});

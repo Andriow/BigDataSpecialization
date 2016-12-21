@@ -1,0 +1,1 @@
+define("bundles/quiz-question-types/constants/strings",["require","exports","module","i18n!nls/quiz-question-types"],function(require,exports,module){"use strict";var e=require("i18n!nls/quiz-question-types");module.exports={successTitle:e("Correct Response"),freeInput:{errorTitle:e("Incorrect Response")},options:{errorTitle:e("Incorrect Response")}}});

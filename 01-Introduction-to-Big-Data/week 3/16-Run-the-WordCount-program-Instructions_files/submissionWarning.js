@@ -1,0 +1,1 @@
+define("pages/open-course/peerReview/views/nls/pt/submissionWarning",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Your assignment was saved, but":"Sua tarefa foi salva, mas"}});

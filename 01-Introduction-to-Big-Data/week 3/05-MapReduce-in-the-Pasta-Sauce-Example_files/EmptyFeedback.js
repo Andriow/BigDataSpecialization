@@ -1,0 +1,1 @@
+define("bundles/quiz-question-types/models/EmptyFeedback",["require","exports","module"],function(require,exports,module){"use strict";function _classCallCheck(e,n){if(!(e instanceof n))throw new TypeError("Cannot call a class as a function")}var e=function EmptyFeedback(){_classCallCheck(this,EmptyFeedback)};module.exports=e});

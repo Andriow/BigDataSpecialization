@@ -1,0 +1,1 @@
+define("pages/open-course/peerReview/components/alerts/views/nls/pt/alerts",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"please fix the errors below before submitting.":"Corrija os erros abaixo antes de enviar."}});

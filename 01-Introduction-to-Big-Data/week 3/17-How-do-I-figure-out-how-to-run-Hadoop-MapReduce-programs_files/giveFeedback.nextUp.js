@@ -1,0 +1,1 @@
+define("pages/open-course/peerReview/views/nls/pt/giveFeedback.nextUp",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Needs review":"Avaliação pendente","Submitted&nbsp;":"Enviado&nbsp;"}});

@@ -1,0 +1,1 @@
+define("bundles/wysihtml5/nls/pt/toolbar-latex",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Equation Editor":"Editor de equações",Math:"Matemática"}});

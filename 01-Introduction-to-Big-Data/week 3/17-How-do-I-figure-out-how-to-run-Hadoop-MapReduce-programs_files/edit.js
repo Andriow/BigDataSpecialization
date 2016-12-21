@@ -1,0 +1,1 @@
+define("pages/open-course/peerReview/reviewTypes/structured/partTypes/options/views/nls/pt/edit",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"-- Select an option --":"– Selecione uma opção –"}});

@@ -1,0 +1,1 @@
+define("bundles/userModal/views/nls/pt/userModal",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Log In":"Entrar","Sign Up":"Criar conta","Universal access to the world’s best education.":"Acesso global à melhor educação do mundo."}});

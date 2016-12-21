@@ -1,0 +1,1 @@
+define("bundles/wysihtml5/nls/pt/footer-markdown",["require","exports","module"],function(require,exports,module){"use strict";module.exports={'Now in <a href="http://daringfireball.net/projects/markdown/syntax" target="_blank">Markdown</a> mode.':'Agora no formato <a href="http://daringfireball.net/projects/markdown/syntax" target="_blank">Markdown</a>.'}});

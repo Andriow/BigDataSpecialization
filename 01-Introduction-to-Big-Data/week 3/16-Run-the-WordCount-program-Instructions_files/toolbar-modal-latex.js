@@ -1,0 +1,1 @@
+define("bundles/wysihtml5/nls/pt/toolbar-modal-latex",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Cancel:"Cancelar",Create:"Criar","Preview:":"Visualizar:","enter a latex equation":"inserir equação latex"}});

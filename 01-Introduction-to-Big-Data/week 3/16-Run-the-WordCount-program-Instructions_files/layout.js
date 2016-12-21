@@ -1,0 +1,1 @@
+define("pages/open-course/peerReview/views/nls/pt/layout",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Discussions:"Discussões",Instructions:"Instruções","My project":"Meu projeto","Review peers":"Avaliar colegas"}});

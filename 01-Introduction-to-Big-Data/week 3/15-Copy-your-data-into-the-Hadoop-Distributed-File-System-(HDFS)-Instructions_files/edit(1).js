@@ -1,0 +1,1 @@
+define("pages/open-course/peerReview/reviewTypes/structured/partTypes/yesNo/views/nls/pt/edit",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Please provide additional feedback:":"Forneça mais comentários:"}});

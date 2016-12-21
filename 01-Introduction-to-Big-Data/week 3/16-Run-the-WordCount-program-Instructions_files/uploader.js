@@ -1,0 +1,1 @@
+define("bundles/phoenix/components/fileUploader/views/nls/pt/uploader",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"There was an error. Please try again.":"Ocorreu um erro. Tente novamente.","Upload file":"Carregar arquivo"}});

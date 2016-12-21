@@ -1,0 +1,1 @@
+define("pages/open-course/common/views/nls/pt/helpwidget",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Help Center":"Central de Ajuda"}});

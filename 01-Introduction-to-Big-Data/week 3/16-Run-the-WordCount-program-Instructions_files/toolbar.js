@@ -1,0 +1,1 @@
+define("bundles/wysihtml5/nls/pt/toolbar",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"HTML editing toolbar":"Barra de ferramentas de edição HTML","Insert bullets":"Inserir marcadores","Insert numbered bullets":"Inserir numeração","Make text bold":"Texto em negrito","Make text italic":"Texto em itálico"}});

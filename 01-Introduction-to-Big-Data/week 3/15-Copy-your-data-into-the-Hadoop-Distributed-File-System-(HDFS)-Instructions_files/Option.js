@@ -1,0 +1,1 @@
+define("bundles/quiz-question-types/models/Option",["require","exports","module"],function(require,exports,module){"use strict";function _classCallCheck(i,s){if(!(i instanceof s))throw new TypeError("Cannot call a class as a function")}var i=function Option(i){_classCallCheck(this,Option),this.id=i.id,this.display=i.display,this.isCorrect=i.isCorrect};module.exports=i});

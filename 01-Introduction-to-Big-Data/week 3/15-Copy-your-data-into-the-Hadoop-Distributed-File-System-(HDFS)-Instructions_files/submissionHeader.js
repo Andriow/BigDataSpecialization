@@ -1,0 +1,1 @@
+define("pages/open-course/peerReview/components/submissionHeader/views/nls/pt/submissionHeader",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Submitted on&nbsp;":"Enviado em&nbsp;","by&nbsp;":"por&nbsp;"}});

@@ -1,0 +1,1 @@
+define("bundles/wysihtml5/nls/pt/footer-rich",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Default Editor":"Editor padrão"}});

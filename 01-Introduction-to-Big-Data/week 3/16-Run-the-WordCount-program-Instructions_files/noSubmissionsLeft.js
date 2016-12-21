@@ -1,0 +1,1 @@
+define("pages/open-course/peerReview/views/alerts/nls/pt/noSubmissionsLeft",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"You have finished reviewing all the available submissions.":"Você terminou de avaliar todos os envios disponíveis."}});

@@ -1,0 +1,1 @@
+define("bundles/wysihtml5/nls/pt/toolbar-transloadit",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Insert image":"Inserir imagem",Pic:"Foto"}});

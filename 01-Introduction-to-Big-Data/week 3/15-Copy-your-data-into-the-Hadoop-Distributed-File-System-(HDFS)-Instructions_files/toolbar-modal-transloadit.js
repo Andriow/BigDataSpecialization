@@ -1,0 +1,1 @@
+define("bundles/wysihtml5/nls/pt/toolbar-modal-transloadit",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Cancel:"Cancelar",Insert:"Inserir","Pick File":"Escolher arquivo","What size would you like to embed it at?":"Em qual o tamanho você deseja inseri-lo?"}});

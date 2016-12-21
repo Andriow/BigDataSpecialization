@@ -1,0 +1,1 @@
+define("nls/pt/group-roster",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Classmates:"Colegas","Open {groupName} Chat":"Abrir chat {groupName}"}});

@@ -1,0 +1,1 @@
+define("nls/pt/course-references",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Course Resources Page Filler":"Preenchedor de página de recursos do curso",Resources:"Recursos"}});

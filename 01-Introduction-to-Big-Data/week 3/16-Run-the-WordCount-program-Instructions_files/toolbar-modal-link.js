@@ -1,0 +1,1 @@
+define("bundles/wysihtml5/nls/pt/toolbar-modal-link",["require","exports","module"],function(require,exports,module){"use strict";module.exports={Cancel:"Cancelar",Create:"Criar"}});

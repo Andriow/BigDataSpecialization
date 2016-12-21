@@ -1,0 +1,1 @@
+define("pages/open-course/peerReview/submissionTypes/multipart/views/nls/pt/edit",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Give your project a descriptive title":"Dê ao seu projeto um título descritivo","Submit your assignment":"Envie sua tarefa",Title:"Título"}});
