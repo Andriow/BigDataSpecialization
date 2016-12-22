@@ -1,0 +1,1 @@
+define("pages/open-course/item/views/nls/pt/header",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Navigation closed":"Navegação encerrada","Navigation open":"Navegação iniciada","Toggle navigation":"Alternar modo de navegação"}});

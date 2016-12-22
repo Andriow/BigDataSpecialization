@@ -1,0 +1,1 @@
+define("nls/pt/scribe-plugins",["require","exports","module"],function(require,exports,module){"use strict";module.exports={"Configure Execution":"Configurar execução","Delete code block":"Excluir bloco de código",Execution:"Execução","Select language":"Selecione um idioma"}});
