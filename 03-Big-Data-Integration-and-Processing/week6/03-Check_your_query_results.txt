@@ -1,0 +1,17 @@
+Query 1: How many tweets have location not null?
+user.location not null:
+> db.users.count()
+> db.users.find({'user.Location': null}).count()
+
+Query 2: How many people have more followers than friends?
+> db.users.aggregate([{$project: {ab: {$cmp: ['$user.FollowersCount','$user.FriendsCount']}}},{$match: {ab:{$gt:0}}}]).itcount()
+
+Query 3: Return text of tweets which have the string "http://" ?
+> db.users.createIndex({"tweet_text" : "text"})
+> db.users.find({$text : {$search: "http://"}}).count()
+
+Query 4: Return all the tweets which contain text "England" but not "UEFA" ?
+> db.users.find({$text : {$search: "England -UEFA"}}).count()
+
+Query 5: Get all the tweets from the location "Ireland" and contains the string "UEFA"?
+> db.users.find({$and: [{'user.Location': 'Ireland'}, {$text : {$search: "UEFA"}}]}).pretty()
