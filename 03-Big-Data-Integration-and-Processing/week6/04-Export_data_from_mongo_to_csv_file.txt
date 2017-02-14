@@ -1,0 +1,11 @@
+>nano fields.txt
+user_name
+retweet_count
+tweet_followers_count
+source
+coordinates
+tweet_mentioned_count
+tweet_ID
+tweet_text
+
+> mongoexport --db sample --collection users --out users.csv --csv --fieldFile fields.txt
